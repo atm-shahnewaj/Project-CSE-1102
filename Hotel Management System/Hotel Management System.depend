@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1743100917 source:c:\users\asus\desktop\hotel management system\main.c
+	"header.h"
+	"structs.h"
+
+1743099166 c:\users\asus\desktop\hotel management system\check_in_out.h
+
+1743099469 c:\users\asus\desktop\hotel management system\guest.h
+
+1743100100 c:\users\asus\desktop\hotel management system\menu.h
+
+1743099695 c:\users\asus\desktop\hotel management system\reservation.h
+
+1743099314 c:\users\asus\desktop\hotel management system\rooms.h
+
+1743100915 source:c:\users\asus\desktop\hotel management system\menu.c
+	"header.h"
+	"structs.h"
+
+1743100884 source:c:\users\asus\desktop\hotel management system\check_in_out.c
+	"header.h"
+	"structs.h"
+
+1743100702 c:\users\asus\desktop\hotel management system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"check_in_out.h"
+	"guest.h"
+	"menu.h"
+	"reservation.h"
+	"rooms.h"
+
+1743100860 c:\users\asus\desktop\hotel management system\structs.h
+
+1743100919 source:c:\users\asus\desktop\hotel management system\guest.c
+	"header.h"
+	"structs.h"
+
+1743100912 source:c:\users\asus\desktop\hotel management system\reservation.c
+	"header.h"
+	"structs.h"
+
+1743100909 source:c:\users\asus\desktop\hotel management system\rooms.c
+	"header.h"
+	"structs.h"
+
